@@ -52,9 +52,6 @@
 
 <br>
 
-<!--깃허브 stat-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheechai&show_icons=true&theme=radical)
-<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -66,3 +63,7 @@
       src="https://img.shields.io/badge/jjihee97@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=#03C75A"/>&nbsp
   </a>
 </div>
+
+<!--깃허브 stat-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheechai&show_icons=true&theme=radical)
+<br>
