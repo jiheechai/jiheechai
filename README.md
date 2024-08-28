@@ -3,8 +3,6 @@
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
 </div>
 
-<!--깃허브 stat-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheechai&show_icons=true&theme=radical)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -52,6 +50,12 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
+<br>
+
+<!--깃허브 stat-->
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheechai&show_icons=true&theme=radical)
+</div>
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
