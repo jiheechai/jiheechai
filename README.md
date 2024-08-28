@@ -53,9 +53,7 @@
 <br>
 
 <!--깃허브 stat-->
-<div align="center">
-  <div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheechai&show_icons=true&theme=radical)</div>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheechai&show_icons=true&theme=radical)
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
